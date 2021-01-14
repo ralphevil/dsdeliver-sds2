@@ -18,10 +18,10 @@ A aplicação consiste em um app de pedidos e envio de pedidos, onde um cardápi
 ![Web 2](https://github.com/ralphevil/dsdelivery-sds2/blob/main/.github/web2.png)
 
 ## Modelo conceitual
-![Image](https://github.com/andrezasecon/dsdelivery-sds2/blob/main/assets/modelo-conceitual.png)
+![Image](https://github.com/ralphevil/dsdelivery-sds2/blob/main/.github/modelo-conceitual.png)
 
 ## Camadas
-![camadas](https://github.com/andrezasecon/dsdelivery-sds2/blob/main/assets/camadas.png)
+![camadas](https://github.com/ralphevil/dsdelivery-sds2/blob/main/.github/camadas.png)
 
 # Tecnologias utilizadas
 ## Back end
