@@ -47,7 +47,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-https://github.com/ralphevil/dsdeliver-sds2
+https://github.com/ralphevil/dsdelivery-sds2
 
 # entrar na pasta do projeto back end
 cd backend
@@ -61,7 +61,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-https://github.com/ralphevil/dsdeliver-sds2
+https://github.com/ralphevil/dsdelivery-sds2
 
 # entrar na pasta do projeto front end web
 cd front-web
